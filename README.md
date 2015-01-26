@@ -17,4 +17,5 @@
 
 ![](M51only_tdep.png?raw=true) 
 
+** Sample Data:** The figure above shows data from the spiral galaxy M51, which was part of the THINGS survey of nearby galaxies (Bigiel et al. 2008).  The points are show the gas depletion time and the gas surface density.  The lines show the best fit (thick), and 95% confidence interval (thin).  The thick dashed line shows a constant depletion time of 2 Gyr.  The data clearly suggests an increasing depletion time with surface density.  One question is how conversion factor variations affect such relationships.   
 
