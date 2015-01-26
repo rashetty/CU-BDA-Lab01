@@ -1,8 +1,10 @@
 # CU-BDA-Lab01
 
-** Basic Information:**  Rahul Shetty, MPS Student, final semester
+### Basic Information:
+  Rahul Shetty, MPS Student, final semester
 
-** Interests:** I'm interested in performing Bayesian analysis for a
+###Interests:
+I'm interested in performing Bayesian analysis for a
    variety of research problems in astronomy.  One example is the
    relationship between the star formation rate $\Sigma_{SFR}$ and the
    molecular gas surface density $\Sigma_{mol}$, known as the
