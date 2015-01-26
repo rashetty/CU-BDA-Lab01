@@ -1,3 +1,7 @@
 # CU-BDA-Lab01
 
-test
+* Basic Information:
+
+Rahul Shetty, MPS Student, final semester
+
+
